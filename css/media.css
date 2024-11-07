@@ -20,12 +20,13 @@
     .bq-web .nav-pills .nav-item{
         border-right: 0px;
     }
-    .bq-web .accordion-box .card .card-body {
-        padding: 20px 0px;
+    .bq-web .accordion-box .card-body.inner-space{
+        padding: 4px 20px 34px 20px;
     }
-    .bq-web .accordion-box .card .card-body p{
-        padding: 0px 20px;
+    .bq-web .accordion-box .card .card-header{
+        height: auto;
     }
+  
 }
 @media screen and (max-width: 479px){
     
