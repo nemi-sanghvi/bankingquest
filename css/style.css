@@ -209,6 +209,7 @@ body {
   flex-wrap: wrap;
   border-radius: 10px;
   overflow: hidden;
+  margin-bottom: 20px;
 }
 .bq-web .nav-pills .nav-item {
   border-right: 1px solid hsl(0, 0%, 74%);
@@ -293,7 +294,7 @@ body {
 }
 .bq-web .accordion-box .card .card-header {
   height: 67px;
-  border-radius: 5px 0px 0px 0px;
+  border-radius: 5px;
   background-color: white;
   display: flex;
   justify-content: flex-start;
@@ -365,7 +366,7 @@ body {
   margin-left: 15px;
 }
 .bq-web .accordion-box .card-body.inner-space {
-  padding: 4px 50px 34px 50px;
+  padding: 4px 50px 14px 50px;
   border-bottom: 1px solid hsl(0, 0%, 91%);
 }
 .bq-web .accordion-box .card-body p {
