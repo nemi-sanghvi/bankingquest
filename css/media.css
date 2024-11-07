@@ -11,6 +11,9 @@
     
 }
 @media screen and (max-width: 767px){
+    .bq-web .container{
+        padding: 0px 15px;
+    }
     .bq-web .nav-pills .nav-item{
         width: 100%;
     }
@@ -21,10 +24,13 @@
         border-right: 0px;
     }
     .bq-web .accordion-box .card-body.inner-space{
-        padding: 4px 20px 34px 20px;
+        padding: 4px 10px 14px 10px;
     }
     .bq-web .accordion-box .card .card-header{
         height: auto;
+    }
+    .bq-web .accordion-box .card .card-header.flush {
+        padding: 10px 10px;
     }
   
 }

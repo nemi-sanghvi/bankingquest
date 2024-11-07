@@ -307,6 +307,7 @@ body {
 }
 .bq-web .accordion-box .card .card-header.flush {
   border: 0px;
+  padding: 0px 20px;
 }
 .bq-web .accordion-box .card .card-header .header-text {
   font-size: 20px;
