@@ -41,6 +41,7 @@
     }
     .bq-web .accordion-box .card-body a{
         justify-content: flex-start;
+        align-items: baseline;
     }
   
 }
