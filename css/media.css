@@ -35,6 +35,13 @@
     .bq-web .accordion-box .card-body.spacing{
      padding: 20px 0px;
     }
+    .bq-web .accordion-box .card-body a img{
+        position: relative;
+    top: 7px;
+    }
+    .bq-web .accordion-box .card-body a{
+        justify-content: flex-start;
+    }
   
 }
 @media screen and (max-width: 479px){
