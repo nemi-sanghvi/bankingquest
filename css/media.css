@@ -32,6 +32,9 @@
     .bq-web .accordion-box .card .card-header.flush {
         padding: 10px 10px;
     }
+    .bq-web .accordion-box .card-body.spacing{
+     padding: 20px 0px;
+    }
   
 }
 @media screen and (max-width: 479px){
