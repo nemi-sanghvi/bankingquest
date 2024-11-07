@@ -17,6 +17,15 @@
     .bq-web .accordion-box .card .card-header .header-text{
         font-size: 16px;
     }
+    .bq-web .nav-pills .nav-item{
+        border-right: 0px;
+    }
+    .bq-web .accordion-box .card .card-body {
+        padding: 20px 0px;
+    }
+    .bq-web .accordion-box .card .card-body p{
+        padding: 0px 20px;
+    }
 }
 @media screen and (max-width: 479px){
     
